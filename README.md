@@ -1,5 +1,8 @@
 ### Hi there👋,
-### I'm currently studdying at Web Devolopment & Design level 5 at VisionCollege. My dream job is to be a Systems Admin or Network administratior.
+### I'm currently studdying Web Devolopment & Design level 5 at VisionCollege. 
+### 🌱 My dream job is to be a Systems Admin or Network administratior.
+### 👯 At the moment I'm currently doing a colab project with @lukeponga-dev 
+
 
 <!--
 **hukaku2808/hukaku2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
