@@ -1,7 +1,7 @@
-### Hi there👋,
+# Hi there👋, My names Luke Hartley,
 ### I'm currently studdying Web Devolopment & Design level 5 at VisionCollege. 
-# 🌱 My dream job is to be a Systems Admin or Network administratior.
-# 👯 At the moment I'm currently doing a colab project with @lukeponga-dev 
+### 🌱 My dream job is to be a Systems Admin or Network administratior.
+### 👯 At the moment I'm currently doing a colab project with @lukeponga-dev 
 
 
 <!--
